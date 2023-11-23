@@ -41,9 +41,9 @@ def save_to_bigquery(**kwargs):
     transformed_quote = ti.xcom_pull(task_ids='transform_quote')
 
     if transformed_quote:
-        project_id = '<YOUR PROJECT ID>'
-        dataset_id = '<YOUR DATASET NAME>'
-        table_id = '<YOUR TABLE NAME>'
+        project_id = '<YOUR PROJECT ID>' #change with your actual project ID in Google Cloud Platform
+        dataset_id = '<YOUR DATASET NAME>' #change with your dataset name
+        table_id = '<YOUR TABLE NAME>' #change with your table name
 
         tags_str = ','.join(transformed_quote['tags'])
 
