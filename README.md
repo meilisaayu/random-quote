@@ -3,7 +3,7 @@ This is a random quote JSON API load to BigQuery and Scheduling using Airflow an
 A new quote is updated every 11 hours.
 
 ## Source API
-- [Quotable Github](https://breakdance.github.io/breakdance/) - by lukePeavey
+- [Quotable Github](https://github.com/lukePeavey/quotable) - by lukePeavey
 - [Quickstart JSON API](https://api.quotable.io/quotes/random)
 
 ## Feature List
