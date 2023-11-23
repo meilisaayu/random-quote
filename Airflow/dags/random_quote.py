@@ -41,9 +41,9 @@ def save_to_bigquery(**kwargs):
     transformed_quote = ti.xcom_pull(task_ids='transform_quote')
 
     if transformed_quote:
-        project_id = 'euphoric-coast-400712'
-        dataset_id = 'random_quote'
-        table_id = 'quotes'
+        project_id = '<YOUR PROJECT ID>'
+        dataset_id = '<YOUR DATASET NAME>'
+        table_id = '<YOUR TABLE NAME>'
 
         tags_str = ','.join(transformed_quote['tags'])
 
