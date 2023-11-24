@@ -1,6 +1,5 @@
 # Random Quote Generator
-This is a random quote JSON API load to BigQuery and Scheduling using Airflow and make a real-time dashboard in Looker Studio. 
-A new quote updates every 11 hours and the dashboard updates every 12 hours.
+This is a random quote JSON API load to BigQuery and Scheduling using Airflow and make a real-time dashboard in Looker Studio.
 
 ## Source API
 - [Quotable Github](https://github.com/lukePeavey/quotable) - by lukePeavey
