@@ -1,5 +1,5 @@
 # Random Quote Generator
-This is a random quote JSON API load to BigQuery and Scheduling using Airflow and make a real-time dashboard in Looker Studio.
+This is a random quote JSON API load to BigQuery and Scheduling using Airflow and make a near real-time dashboard in Looker Studio.
 
 ## Source API
 - [Quotable Github](https://github.com/lukePeavey/quotable) - by lukePeavey
