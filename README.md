@@ -26,6 +26,7 @@ This is a random quote JSON API load to BigQuery and Scheduling using Airflow an
 ### Real-Time Dashboard
 Kindly check this dashboard [here](https://lookerstudio.google.com/reporting/f42e7d83-d3c5-41e6-a25f-23aa6a17305d/page/Z8BjD)...
 
-![image](https://github.com/meilisaayu/random-quote/assets/64299327/c201700d-7aca-4fb7-93ec-b0e9cc1fc03d)
+![image](https://github.com/meilisaayu/random-quote/assets/64299327/31937af0-0f47-44aa-ba94-3b3d3e338f41)
+
 
 
