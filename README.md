@@ -9,7 +9,7 @@ This is a random quote JSON API load to BigQuery and Scheduling using Airflow an
 - Project Architecture
 - DAG Airflow Graph
 - BigQuery Table
-- Real-Time Dashboard
+- Near Real-Time Dashboard
 
 ### Project Architecture
 
@@ -23,7 +23,7 @@ This is a random quote JSON API load to BigQuery and Scheduling using Airflow an
 
 ![image](https://github.com/meilisaayu/random-quote/assets/64299327/a498846f-313a-41e9-bb1b-0c4a2544a660)
 
-### Real-Time Dashboard
+### Near Real-Time Dashboard
 Kindly check this dashboard [here](https://lookerstudio.google.com/reporting/f42e7d83-d3c5-41e6-a25f-23aa6a17305d/page/Z8BjD)...
 
 ![image](https://github.com/meilisaayu/random-quote/assets/64299327/31937af0-0f47-44aa-ba94-3b3d3e338f41)
